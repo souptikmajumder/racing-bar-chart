@@ -4,4 +4,4 @@ This repo shows how to create a racing bar chart in python quick and easy!
 Recommended Repo:- https://github.com/programiz/bar_chart_race
 
 
-![video_gif](https://user-images.githubusercontent.com/18073132/157676864-91c3ecc7-1086-480c-ae6d-d5a8b672be5c.gif)
+![video_gif](https://user-images.githubusercontent.com/18073132/157680399-2b932252-9ba6-4ed7-8017-577f94d2f2c2.gif)
